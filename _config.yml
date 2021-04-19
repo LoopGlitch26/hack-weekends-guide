@@ -8,6 +8,6 @@ auto: true
 source: hack-weekends-guide
 destination: hack-weekends-guide
 
-production_url : http://kinlane.github.io/hack-weekends-guide/
+production_url : https://loopglitch26.github.io/hack-weekends-guide/
 
-BASE_PATH : http://kinlane.github.io/hack-weekends-guide/
+BASE_PATH : https://loopglitch26.github.io/hack-weekends-guide/
